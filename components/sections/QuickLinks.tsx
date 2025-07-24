@@ -43,7 +43,7 @@ export function QuickLinks() {
           <p className="text-gray-700 text-lg">Everything you need at your fingertips</p>
         </motion.div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {links.map((link, index) => (
             <motion.div
               key={link.title}

@@ -42,7 +42,7 @@ export function MenuPage() {
           onCategoryChange={setActiveCategory}
         />
 
-        <div className="mt-12">
+        <div className="mt-12 p-4">
           {currentCategory.subcategories ? (
             currentCategory.subcategories.map((subcategory, index) => (
               <motion.div

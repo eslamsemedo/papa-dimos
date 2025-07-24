@@ -10,7 +10,7 @@ export function StorySection() {
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
         <motion.div
           initial={{ opacity: 0, x: -20 }}
-          whileInView={{ opacity: 1, x: 0 }}
+          animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 0.6 }}
           viewport={{ once: true }}
         >
@@ -37,10 +37,10 @@ export function StorySection() {
 
         <motion.div
           initial={{ opacity: 0, x: 20 }}
-          whileInView={{ opacity: 1, x: 0 }}
+          animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 0.6 }}
           viewport={{ once: true }}
-          className="relative"
+          className="relative md: my-8"
         >
           <div className="relative h-96 rounded-lg overflow-hidden shadow-lg">
             <Image
