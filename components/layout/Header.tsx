@@ -40,11 +40,11 @@ export function Header() {
           </nav>
 
           {/* Phone Number */}
-          <a href="tel:01003472237" className="cursor-pointer">
+          <a href="tel:+201015189828" className="cursor-pointer">
 
           <div className="hidden min-[820px]:flex items-center space-x-2 bg-green-600 px-4 py-2 rounded-lg">
             <Phone className="h-4 w-4 text-white" />
-            <span className="text-sm text-white font-medium max-[950px]:hidden">+20 123 456 7890</span>
+            <span className="text-sm text-white font-medium max-[950px]:hidden">+201015189828</span>
           </div>
           </a>
 
@@ -74,11 +74,11 @@ export function Header() {
                   {item.name}
                 </Link>
               ))}
-              <a href="tel:01003472237" className="cursor-pointer">
+              <a href="tel:+201015189828" className="cursor-pointer">
 
               <div className="flex items-center space-x-2 w-fit  border-t border-gray-700 bg-green-600 px-4 py-2 rounded-lg">
                 <Phone className="h-4 w-4 text-white" />
-                <span className="text-sm text-white">+20 123 456 7890</span>
+                <span className="text-sm text-white">+201015189828</span>
               </div>
               </a>
             </nav>

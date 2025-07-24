@@ -6,22 +6,22 @@ import Image from "next/image"
 export function FeaturedMenu() {
   const featured = [
     {
-      name: "Papa Dimos Pizza",
+      name: "Papa Dimos Pizza Burger",
       description: "Our signature pizza with premium ingredients",
-      price: "210 EGP",
-      image: "/placeholder.svg?height=300&width=300",
+      // price: "210 EGP",
+      image: "/pizzaburger.png",
     },
     {
-      name: "Spaghetti Bolognese",
+      name: "Pasta Nigresko",
       description: "Traditional pasta with rich meat sauce",
-      price: "145 EGP",
-      image: "/placeholder.svg?height=300&width=300",
+      // price: "145 EGP",
+      image: "/pasta.png",
     },
     {
-      name: "Chicken Parmesan",
+      name: "Grill Chicken",
       description: "Crispy chicken with melted cheese",
-      price: "145 EGP",
-      image: "/placeholder.svg?height=300&width=300",
+      // price: "145 EGP",
+      image: "/grill.png",
     },
   ]
 
@@ -56,7 +56,7 @@ export function FeaturedMenu() {
                 <h3 className="text-xl font-bold text-black mb-2">{dish.name}</h3>
                 <p className="text-gray-600 mb-4">{dish.description}</p>
                 <div className="flex justify-between items-center">
-                  <span className="text-2xl font-bold text-italian-red">{dish.price}</span>
+                  {/* <span className="text-2xl font-bold text-italian-red">{dish.price}</span> */}
                   <span className="text-sm text-gray-500">Medium/Large</span>
                 </div>
               </div>

@@ -60,7 +60,7 @@ export function ReservationForm() {
         <div className="bg-gradient-to-r from-italian-green to-olive-green text-white p-8 rounded-lg shadow-xl">
           <h2 className="text-3xl font-bold mb-4">Reservation Confirmed!</h2>
           <p className="text-lg mb-4">Thank you, {formData.name}! Your reservation has been successfully submitted.</p>
-          <p className="text-sm opacity-90">We'll contact you at {formData.phone} to confirm your booking.</p>
+          <p className="text-sm opacity-90">We'll contact you at {formData.phone || "+201015189828"} to confirm your booking.</p>
         </div>
       </motion.div>
     )
@@ -171,7 +171,7 @@ export function ReservationForm() {
             onChange={handleChange}
             required
             className="w-full p-3 border-2 border-gray-300 rounded-lg focus:ring-2 focus:ring-italian-gold focus:border-italian-gold transition-colors"
-            placeholder="+20 123 456 7890"
+            placeholder="+201015189828"
           />
         </div>
       </div>

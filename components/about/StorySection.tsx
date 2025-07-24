@@ -44,7 +44,7 @@ export function StorySection() {
         >
           <div className="relative h-96 rounded-lg overflow-hidden shadow-lg">
             <Image
-              src="/placeholder.svg?height=400&width=600"
+              src="/papa.png"
               alt="Papa Dimos in the kitchen"
               fill
               className="object-cover"

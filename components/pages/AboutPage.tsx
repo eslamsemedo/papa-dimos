@@ -41,7 +41,7 @@ export function AboutPage() {
                   <MapPin className="h-6 w-6 text-italian-green mt-1" />
                   <div>
                     <h3 className="font-semibold text-black">Location</h3>
-                    <p className="text-gray-600">123 Italian Street, Cairo, Egypt</p>
+                    <p className="text-gray-600">Dahar, Hurghada, Egypt</p>
                   </div>
                 </div>
 
@@ -50,9 +50,8 @@ export function AboutPage() {
                   <div>
                     <h3 className="font-semibold text-black">Opening Hours</h3>
                     <div className="text-gray-600">
-                      <p>Monday - Thursday: 11:00 AM - 11:00 PM</p>
-                      <p>Friday - Saturday: 11:00 AM - 12:00 AM</p>
-                      <p>Sunday: 12:00 PM - 10:00 PM</p>
+                      <p>Everyday: 2:00 PM - 2:00 AM</p>
+                      
                     </div>
                   </div>
                 </div>
@@ -61,7 +60,7 @@ export function AboutPage() {
                   <Phone className="h-6 w-6 text-italian-green mt-1" />
                   <div>
                     <h3 className="font-semibold text-black">Phone</h3>
-                    <p className="text-gray-600">+20 123 456 7890</p>
+                    <p className="text-gray-600">+201015189828</p>
                   </div>
                 </div>
 

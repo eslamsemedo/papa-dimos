@@ -14,15 +14,15 @@ export function Footer() {
               Papa Dimos Restaurant & Café.
             </p>
             <div className="flex space-x-4 mt-6">
-              <a href="#" className="text-white hover:text-yellow-400 transition-colors p-2 bg-red-600 rounded-full">
+              <a href="https://www.facebook.com/share/16sTAcyrMj/" target="_blank" rel="noopener noreferrer" className="text-white hover:text-yellow-400 transition-colors p-2 bg-red-600 rounded-full">
                 <Facebook className="h-5 w-5" />
               </a>
-              <a href="#" className="text-white hover:text-yellow-400 transition-colors p-2 bg-green-600 rounded-full">
+              <a href="https://www.instagram.com/papadimos12?igsh=ZDR4aGsxNzlkaHFu" target="_blank" rel="noopener noreferrer" className="text-white hover:text-yellow-400 transition-colors p-2 bg-green-600 rounded-full">
                 <Instagram className="h-5 w-5" />
               </a>
-              <a href="#" className="text-white hover:text-yellow-400 transition-colors p-2 bg-orange-600 rounded-full">
+              {/* <a href="#" className="text-white hover:text-yellow-400 transition-colors p-2 bg-orange-600 rounded-full">
                 <Twitter className="h-5 w-5" />
-              </a>
+              </a> */}
             </div>
           </div>
 
@@ -33,14 +33,12 @@ export function Footer() {
               <div className="flex items-start space-x-3">
                 <MapPin className="h-5 w-5 text-green-500 mt-0.5" />
                 <span className="text-gray-300 text-sm">
-                  123 Italian Street
-                  <br />
-                  Cairo, Egypt
+                  Dahar, Hurghada, Egypt
                 </span>
               </div>
               <div className="flex items-center space-x-3">
                 <Phone className="h-5 w-5 text-green-500" />
-                <span className="text-gray-300 text-sm">+20 123 456 7890</span>
+                <span className="text-gray-300 text-sm">+201015189828</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Mail className="h-5 w-5 text-green-500" />
