@@ -171,7 +171,7 @@ export function ReservationForm() {
             onChange={handleChange}
             required
             className="w-full p-3 border-2 border-gray-300 rounded-lg focus:ring-2 focus:ring-italian-gold focus:border-italian-gold transition-colors"
-            placeholder="+201015189828"
+            placeholder="+20 120 205 7797"
           />
         </div>
       </div>

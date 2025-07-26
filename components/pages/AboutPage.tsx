@@ -60,7 +60,7 @@ export function AboutPage() {
                   <Phone className="h-6 w-6 text-italian-green mt-1" />
                   <div>
                     <h3 className="font-semibold text-black">Phone</h3>
-                    <p className="text-gray-600">+201015189828</p>
+                    <p className="text-gray-600">+20 120 205 7797</p>
                   </div>
                 </div>
 
