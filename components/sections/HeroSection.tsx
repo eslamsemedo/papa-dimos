@@ -35,9 +35,9 @@ export function HeroSection() {
                 View Our Menu
               </Button>
             </Link>
-            <Link href="/reservations">
+            <Link href="/offers">
               <Button size="lg" className="w-full sm:w-auto bg-yellow-500 hover:bg-yellow-600 text-gray-900">
-                Make Reservation
+                View Offers
               </Button>
             </Link>
           </div>
