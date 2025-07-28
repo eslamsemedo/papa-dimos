@@ -1,0 +1,1178 @@
+{
+  "restaurantName": "Papa Dimos",
+  "currency": "EGP",
+  "categories": [
+    {
+      "name_en": "Drinks",
+      "name_ar": "المشروبات",
+      "subcategories": [
+        {
+          "name_en": "Hot Drinks",
+          "name_ar": "مشروبات ساخنة",
+          "items": [
+            {
+              "name_en": "Tea",
+              "name_ar": "شاي",
+              "price": 30
+            },
+            {
+              "name_en": "Flavored Tea",
+              "name_ar": "شاي نكهات",
+              "price": 35
+            },
+            {
+              "name_en": "Green Tea",
+              "name_ar": "شاي أخضر",
+              "price": 35
+            },
+            {
+              "name_en": "Variety of Herbs",
+              "name_ar": "اختيارات متنوعة من الأعشاب",
+              "price": 35
+            },
+            {
+              "name_en": "Hot Cider",
+              "name_ar": "هوت سيدر",
+              "price": 65
+            },
+            {
+              "name_en": "Hot Chocolate",
+              "name_ar": "هوت شوكولت",
+              "price": 75
+            }
+          ]
+        },
+        {
+          "name_en": "Hot Coffee",
+          "name_ar": "القهوة الساخنة",
+          "items": [
+            {
+              "name_en": "Espresso",
+              "name_ar": "إسبريسو",
+              "price": 45
+            },
+            {
+              "name_en": "Chociato",
+              "name_ar": "شوكياتو",
+              "price": 55
+            },
+            {
+              "name_en": "Nescafe",
+              "name_ar": "نسكافيه",
+              "price": 50
+            },
+            {
+              "name_en": "Cappuccino",
+              "name_ar": "كابتشينو",
+              "price": 55
+            },
+            {
+              "name_en": "Latte",
+              "name_ar": "لاتيه",
+              "price": 55
+            },
+            {
+              "name_en": "Mocha",
+              "name_ar": "موكا",
+              "price": 45
+            },
+            {
+              "name_en": "Turkish Coffee",
+              "name_ar": "قهوة تركي",
+              "price": 40
+            }
+          ]
+        },
+        {
+          "name_en": "Soft Drinks",
+          "name_ar": "مشروبات غازية",
+          "items": [
+            {
+              "name_en": "CocaCola",
+              "name_ar": "كوكاكولا",
+              "price": 35
+            },
+            {
+              "name_en": "Soda",
+              "name_ar": "صودا",
+              "price": 35
+            },
+            {
+              "name_en": "Tonic",
+              "name_ar": "تونك",
+              "price": 35
+            },
+            {
+              "name_en": "Birell - Fayrouz",
+              "name_ar": "بيريل - فيروز",
+              "price": 35
+            },
+            {
+              "name_en": "Red Bull",
+              "name_ar": "ريد بول",
+              "price": 60
+            },
+            {
+              "name_en": "Water (Small)",
+              "name_ar": "مياه معدنية صغير",
+              "price": 20
+            },
+            {
+              "name_en": "Water (Large)",
+              "name_ar": "مياه معدنية كبير",
+              "price": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name_en": "Salads & Soups",
+      "name_ar": "سلطات و شوربة",
+      "subcategories": [
+        {
+          "name_en": "Salads",
+          "name_ar": "سلطات",
+          "items": [
+            {
+              "name_en": "Green Salad",
+              "name_ar": "سلطة خضراء",
+              "price": 65
+            },
+            {
+              "name_en": "Teheena - Papa Ghanough",
+              "name_ar": "سلطة طحينة - بابا غنوج",
+              "price": 35
+            },
+            {
+              "name_en": "Coleslaw - Garlic Salad",
+              "name_ar": "كول سلو سلطة - ثومية",
+              "price": 45
+            },
+            {
+              "name_en": "Cheese Salad",
+              "name_ar": "سلطة جبنة شيدر مع بابا ديموس",
+              "price": 65
+            },
+            {
+              "name_en": "Pickles",
+              "name_ar": "مخلل على الطريقة البابا ديموس",
+              "price": 20
+            },
+            {
+              "name_en": "Chicken Caesar",
+              "name_ar": "سلطة تشيكن سيزر",
+              "price": 150
+            },
+            {
+              "name_en": "Classic Greek Salad",
+              "name_ar": "سلطة اليونانية",
+              "price": 110
+            },
+            {
+              "name_en": "Tuna Salad",
+              "name_ar": "تونة سلاد",
+              "price": 145
+            }
+          ]
+        },
+        {
+          "name_en": "Soups",
+          "name_ar": "الشوربة",
+          "note": "All soups are served with garlic bread",
+          "items": [
+            {
+              "name_en": "Tomato Soup",
+              "name_ar": "شوربة طماطم",
+              "price": 55
+            },
+            {
+              "name_en": "Cream Chicken Soup",
+              "name_ar": "شوربة فراخ بالكريمة",
+              "price": 115
+            },
+            {
+              "name_en": "Cream Mushroom Soup",
+              "name_ar": "شوربة مشروم بالكريمة",
+              "price": 110
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name_en": "Famous Papa Dimos Meals",
+      "name_ar": "وجبات بابا ديموس الشهيرة",
+      "note": "All meals with salad, potato-rice or pasta, samposa, garlic bread",
+      "items": [
+        {
+          "name_en": "Grilled Chicken Fillet",
+          "name_ar": "فيليه الدجاج المشوي",
+          "price": 230,
+          "desc": "فيليه دجاج مشوي متبل مع الأرز أو المكرونة أو البطاطس"
+        },
+        {
+          "name_en": "Crispy Fried Chicken",
+          "name_ar": "كريسبي فرايد تشيكن",
+          "price": 260,
+          "desc": "قطع دجاج مقرمشة مع بطاطس – جبنة شيدر – خبز ثوم"
+        },
+        {
+          "name_en": "Piccata Chicken Mushroom",
+          "name_ar": "بيكاتا الدجاج المشروم",
+          "price": 275,
+          "desc": "فيليه دجاج بصوص المشروم الأبيض – أرز أو مكرونة أو بطاطس"
+        },
+        {
+          "name_en": "Cordon Bleu (Chicken Steak)",
+          "name_ar": "كوردن بلو (ستيك تشيكن)",
+          "price": 275,
+          "desc": "شرائح دجاج محشية – جبنة – لانشون مدخن – صوص مشروم – خبز ثوم"
+        },
+        {
+          "name_en": "Shish Tawook Plate",
+          "name_ar": "طبق شيش طاووك",
+          "price": 235,
+          "desc": "شيش طاووك مع بطاطس محمرة – صوص ثوم – خبز"
+        },
+        {
+          "name_en": "Chicken Buffalo",
+          "name_ar": "دجاج بافلو",
+          "price": 250,
+          "desc": "تشيكن ستربس بصوص البافلو – بطاطس – جبنة شيدر – صوص رانش – خبز"
+        },
+        {
+          "name_en": "Beef Stroganoff",
+          "name_ar": "بيف استراجنوف",
+          "price": 270,
+          "desc": "شرائح لحم بيف – مشروم – كريمة لباني – أرز – خبز ثوم"
+        },
+        {
+          "name_en": "Fajita Chicken",
+          "name_ar": "فاهيتا الفراخ",
+          "price": 220,
+          "desc": "شرائح فراخ فاهيتا – بصل – فلفل ألوان – خبز تورتيلا – صوص"
+        }
+      ]
+    },
+    {
+      "name_en": "Cheese Mixes and Pans",
+      "name_ar": "ركن ميكسات الجبنه السايحه وركن الطاسات",
+      "subcategories": [
+        {
+          "name_en": "Cheese Mixes",
+          "name_ar": "ركن ميكسات الجبنه السايحه",
+          "items": [
+            {
+              "name_en": "Papa Mix (chicken strips + kofta dawood + pan)",
+              "name_ar": "ميكس البابا (تشيكن ستربس + كفته داوود + بسطلمه)",
+              "price": 195,
+              "desc": "ميكس من تشيكن ستربس وكفتة داوود باشا وبسطلمه مع الجبنة"
+            },
+            {
+              "name_en": "Chicken Mixed with Tawook & Kofta (pan + rice & veggies)",
+              "name_ar": "ميكس دجاج مشكل (بسطلمه + شيش طاووك + بسطلمه)",
+              "price": 195,
+              "desc": "تشيكن ميكس مع شيش طاووك وقطع البسطلمه – جبنة سايحة"
+            },
+            {
+              "name_en": "Mafia Mix (minced beef + pan + chicken strips)",
+              "name_ar": "ميكس مافيا (لحم مفروم + بسطلمه + تشيكن ستربس)",
+              "price": 195,
+              "desc": "ميكس مافيا باللحم المفروم وتشيكن ستربس والبسطلمه بالجبنة"
+            }
+          ]
+        },
+        {
+          "name_en": "Pans",
+          "name_ar": "ركن الطاسات",
+          "items": [
+            {
+              "name_en": "Alex Liver Pan",
+              "name_ar": "طاسة كبدة اسكندراني",
+              "price": 145,
+              "desc": "كبدة اسكندراني بالطريقة التقليدية تقدم مع عيش"
+            },
+            {
+              "name_en": "Grilled Sausage Pan",
+              "name_ar": "طاسة سجق اسكندراني مشوي",
+              "price": 175,
+              "desc": "سجق مشوي متبل مع خضار وعيش بلدي"
+            },
+            {
+              "name_en": "Papa Mix Pan (liver + sausage)",
+              "name_ar": "طاسة ميكس بابا (كبدة على سجق اسكندراني)",
+              "price": 175,
+              "desc": "خليط كبدة وسجق اسكندراني متبل بالثوم والفلفل"
+            },
+            {
+              "name_en": "Cheese Pan with Chicken & Mozzarella",
+              "name_ar": "طاسة جبنه شيدر – موزاريلا",
+              "price": 195,
+              "desc": "تقدم مع عيش – فلفل أخضر – ليمون – ميكسل"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name_en": "Burgers & Sandwiches",
+      "name_ar": "عمايلها ساندوتشات",
+      "subcategories": [
+        {
+          "name_en": "Home Made Burgers",
+          "name_ar": "هم ميد برجر",
+          "items": [
+            {
+              "name_en": "Cheese Burger",
+              "name_ar": "برجر بالجبنة",
+              "price": 120
+            },
+            {
+              "name_en": "Smoky Burger",
+              "name_ar": "برجر مدخن كاوبوي",
+              "price": 155
+            },
+            {
+              "name_en": "Burger Max with Onion Rings",
+              "name_ar": "برجر ماكس مع حلقات البصل",
+              "price": 145
+            },
+            {
+              "name_en": "Double Cheese Burger",
+              "name_ar": "دبل تشيز برجر",
+              "price": 155
+            },
+            {
+              "name_en": "Buffalo Burger",
+              "name_ar": "بافلو هوت برجر",
+              "price": 155
+            },
+            {
+              "name_en": "Burger Mushroom",
+              "name_ar": "ماشروم برجر",
+              "price": 155
+            },
+            {
+              "name_en": "Coleslaw Burger",
+              "name_ar": "كول سلو برجر",
+              "price": 145
+            },
+            {
+              "name_en": "Chicken Doritos Burger",
+              "name_ar": "تشيكن دوريتوس برجر",
+              "price": 145
+            }
+          ]
+        },
+        {
+          "name_en": "Sandwich Beef",
+          "name_ar": "ساندويتش بيف",
+          "items": [
+            {
+              "name_en": "Fille Cheese Steak",
+              "name_ar": "فيليه تشيز استيك",
+              "price": 175
+            },
+            {
+              "name_en": "Fille Bouaver",
+              "name_ar": "فيليه مشروم بوافار",
+              "price": 195
+            },
+            {
+              "name_en": "Grilled Kofta",
+              "name_ar": "كفتة مشوية على الفحم",
+              "price": 120
+            },
+            {
+              "name_en": "Hot Dog Papa Dimos",
+              "name_ar": "هوت دوج بابا ديموس",
+              "price": 120
+            },
+            {
+              "name_en": "Alex Liver",
+              "name_ar": "كبدة اسكندراني",
+              "price": 65
+            },
+            {
+              "name_en": "Hotdog",
+              "name_ar": "هوت دوج عادي",
+              "price": 65
+            }
+          ]
+        },
+        {
+          "name_en": "Quesadillas",
+          "name_ar": "كاساديا",
+          "items": [
+            {
+              "name_en": "Quesadillas Chicken",
+              "name_ar": "كاساديا الدجاج",
+              "price": 175
+            },
+            {
+              "name_en": "Quesadillas Hot Dog",
+              "name_ar": "كاساديا هوت دوج",
+              "price": 165
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name_en": "Charcoal Grills",
+      "name_ar": "مشويات على الفحم",
+      "note": "All meals come with rice or pasta, potato, salad, bread, sambousek",
+      "items": [
+        {
+          "name_en": "Syrian Style Charcoal Chicken",
+          "name_ar": "دجاج على الطريقة السورية مع أرز بسمتي",
+          "price": 350
+        },
+        {
+          "name_en": "Charcoal Grilled Chicken",
+          "name_ar": "دجاجة مشوية على الفحم + سلطات + خبز",
+          "price": 280
+        },
+        {
+          "name_en": "Half Chicken Grilled with Rice or Macaroni and Potatoes",
+          "name_ar": "نصف دجاجة مشوية مع أرز أو مكرونة وبطاطس",
+          "price": 195
+        },
+        {
+          "name_en": "Quarter Grilled Chicken Breast with Potatoes and Salad",
+          "name_ar": "ربع دجاجة صدر مشوي مع بطاطس + سلطة",
+          "price": 120
+        },
+        {
+          "name_en": "Quarter Grilled Chicken Leg with Potatoes and Salad",
+          "name_ar": "ربع دجاجة ورك مشوي مع أرز + بطاطس + سلطة",
+          "price": 110
+        }
+      ]
+    },
+    {
+      "name_en": "Per Kilo Meals",
+      "name_ar": "وجبات بالكيلو",
+      "note": "Served with salad and Papa Dimos bread",
+      "items": [
+        {
+          "name_en": "1 KG Kofta Baladi Grilled",
+          "name_ar": "كيلو كفته بلدي مشوي على الفحم",
+          "price": 850,
+          "half_kg_price": 425
+        },
+        {
+          "name_en": "1 KG Shish Tawook + Grilled Chicken Thighs",
+          "name_ar": "كيلو شيش طاووق و صدور فراخ مشوي",
+          "price": 470,
+          "half_kg_price": 235
+        },
+        {
+          "name_en": "1 KG Chicken Fillet or Mix Crispy",
+          "name_ar": "كيلو فراخ بانية أو تشيكن كرسبي",
+          "price": 470,
+          "half_kg_price": 235
+        },
+        {
+          "name_en": "1 KG Mixed (Kofta, Fillet, Crispy, Shish Tawook)",
+          "name_ar": "كيلو مشكل (كفته + بانية + كرسبي + شيش طاووق)",
+          "price": 900,
+          "half_kg_price": 450
+        },
+        {
+          "name_en": "1 KG Grilled Sausage",
+          "name_ar": "كيلو سجق مشوي",
+          "price": 650,
+          "half_kg_price": 325
+        },
+        {
+          "name_en": "1 KG Liver",
+          "name_ar": "كيلو كبدة مشوية",
+          "price": 340,
+          "half_kg_price": 170
+        }
+      ]
+    },
+    {
+      "name_en": "Light Meals",
+      "name_ar": "وجبات خفيفة",
+      "items": [
+        {
+          "name_en": "Alex Liver + Macaroni with Tomato Sauce + Potatoes",
+          "name_ar": "كبدة اسكندراني + مكرونة بنا بصوص الطماطم + بطاطس",
+          "price": 175
+        },
+        {
+          "name_en": "Grilled Kofta + Macaroni with Red Sauce",
+          "name_ar": "كفته مشوية فحم + مكرونة بنا بصوص أحمر",
+          "price": 175
+        },
+        {
+          "name_en": "Mixed (1/4 Fried Chicken + 2 Kofta + Macaroni)",
+          "name_ar": "ميكس (ربع فراخ + 2 كفته + مكرونة بصوص أحمر)",
+          "price": 195
+        },
+        {
+          "name_en": "Mafia Mix (Fried Chicken Fillet + Crispy + Macaroni)",
+          "name_ar": "ميكس مافيا (فراخ بانية + كرسبي + مكرونة بصوص أحمر)",
+          "price": 195
+        },
+        {
+          "name_en": "Breaded Chicken Fillet + Macaroni with Red Sauce",
+          "name_ar": "فراخ بانية + مكرونة بنا بصوص أحمر",
+          "price": 195
+        }
+      ]
+    },
+    {
+      "name_en": "Fresh Juices",
+      "name_ar": "عصائر فرش",
+      "subcategories": [
+        {
+          "name_en": "Fresh Juices",
+          "name_ar": "عصائر فرش",
+          "items": [
+            {
+              "name_en": "Lemon",
+              "name_ar": "موهيتو ليمون ونعناع",
+              "price": 45
+            },
+            {
+              "name_en": "Orange",
+              "name_ar": "برتقال فريش",
+              "price": 45
+            },
+            {
+              "name_en": "Strawberry",
+              "name_ar": "فراولة فريش",
+              "price": 45
+            },
+            {
+              "name_en": "Guava",
+              "name_ar": "جوافة فريش",
+              "price": 45
+            },
+            {
+              "name_en": "Mango",
+              "name_ar": "مانجو فريش",
+              "price": 65
+            },
+            {
+              "name_en": "Kiwi",
+              "name_ar": "كيوي",
+              "price": 65
+            }
+          ]
+        },
+        {
+          "name_en": "Cocktails",
+          "name_ar": "كوكتيل",
+          "items": [
+            {
+              "name_en": "Floreda",
+              "name_ar": "فلوريدا",
+              "price": 65
+            },
+            {
+              "name_en": "Papa Dimos Latino",
+              "name_ar": "بابا ديموس لاتينو",
+              "price": 65
+            },
+            {
+              "name_en": "Electric Lemon",
+              "name_ar": "إلكتريك ليمون",
+              "price": 65
+            },
+            {
+              "name_en": "Mango Tango",
+              "name_ar": "مانجو تانجو",
+              "price": 65
+            },
+            {
+              "name_en": "Mint Slice",
+              "name_ar": "منت سلايز",
+              "price": 65
+            }
+          ]
+        },
+        {
+          "name_en": "Milk Shakes",
+          "name_ar": "ميلك شيك",
+          "items": [
+            {
+              "name_en": "Vanilla",
+              "name_ar": "فانيليا",
+              "price": 65
+            },
+            {
+              "name_en": "Chocolate",
+              "name_ar": "شوكلاتة",
+              "price": 65
+            },
+            {
+              "name_en": "Strawberry",
+              "name_ar": "فراولة",
+              "price": 65
+            },
+            {
+              "name_en": "Mango",
+              "name_ar": "مانجو",
+              "price": 65
+            },
+            {
+              "name_en": "Oreo",
+              "name_ar": "أوريو",
+              "price": 75
+            },
+            {
+              "name_en": "Lotus Milkshake",
+              "name_ar": "لوتس ميلك شيك",
+              "price": 85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name_en": "Desserts",
+      "name_ar": "الحلويات",
+      "subcategories": [
+        {
+          "name_en": "Dessert",
+          "name_ar": "حلويات",
+          "items": [
+            {
+              "name_en": "Oreo Pudding Dessert",
+              "name_ar": "بودنج أوريو",
+              "price": 75
+            },
+            {
+              "name_en": "Nutella Molten Cake",
+              "name_ar": "مولتن كيك نوتيلا",
+              "price": 85
+            },
+            {
+              "name_en": "Red Velvet Cheese",
+              "name_ar": "ريد فيلفت تشيز كريم",
+              "price": 85
+            },
+            {
+              "name_en": "Creme Caramel",
+              "name_ar": "كريم كراميل",
+              "price": 45
+            },
+            {
+              "name_en": "Banana Sushi",
+              "name_ar": "بانانا سوشي",
+              "price": 75
+            },
+            {
+              "name_en": "Um Ali (with nuts & cream)",
+              "name_ar": "أم علي بالمكسرات والكريمة",
+              "price": 75
+            },
+            {
+              "name_en": "Fruit Salad",
+              "name_ar": "فروت سلات",
+              "price": 65
+            },
+            {
+              "name_en": "Fruit Salad & Ice Cream",
+              "name_ar": "فروت سلات بالآيس كريم",
+              "price": 75
+            },
+            {
+              "name_en": "Ice Cream",
+              "name_ar": "آيس كريم",
+              "price": 60
+            }
+          ]
+        },
+        {
+          "name_en": "Waffle",
+          "name_ar": "وافل",
+          "items": [
+            {
+              "name_en": "Waffle Nutella",
+              "name_ar": "وافل نوتيلا",
+              "price": 75
+            },
+            {
+              "name_en": "Waffle Lotus",
+              "name_ar": "وافل لوتس",
+              "price": 80
+            },
+            {
+              "name_en": "Waffle Oreo",
+              "name_ar": "وافل أوريو",
+              "price": 80
+            },
+            {
+              "name_en": "Papa Dimos Waffle",
+              "name_ar": "وافل بابا ديموس",
+              "price": 85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name_en": "Pizza Burger & Strompoli",
+      "name_ar": "بيتزا برجر وسترومبولي",
+      "subcategories": [
+        {
+          "name_en": "Pizza Burger",
+          "name_ar": "بيتزا برجر",
+          "items": [
+            {
+              "name_en": "Classic Burger Pizza",
+              "name_ar": "كلاسيك برجر بيتزا",
+              "price": 220,
+              "desc": "بيف او فراخ - خص - طماطم - جبنه - اسبيشيال صوص"
+            },
+            {
+              "name_en": "Mushroom Swiss Burger Pizza",
+              "name_ar": "مشروم سويس برجر بيتزا",
+              "price": 235,
+              "desc": "بيف - مشروم - جبنه سويس - خص - طماطم - اسبيشيال صوص"
+            },
+            {
+              "name_en": "Roast Beef Cheese Burger Pizza",
+              "name_ar": "روست بيف تشيز برجر بيتزا",
+              "price": 245,
+              "desc": "روست بيف - جبنه شيدر - موزاريلا - خص - طماطم - اسبيشيال صوص"
+            },
+            {
+              "name_en": "Buffalo Blue Burger",
+              "name_ar": "بافلو بلو برجر",
+              "price": 245,
+              "desc": "بفالو سوس - بلو تشيز - جبنه شيدر - خص - طماطم - بيف - موزاريلا"
+            },
+            {
+              "name_en": "Chicken Crispy Mushroom",
+              "name_ar": "تشيكن كرسبي مشروم",
+              "price": 245,
+              "desc": "تشكن كرسبي - مشروم - جبنه شيدر - موزاريلا - خص - طماطم"
+            },
+            {
+              "name_en": "Chicken Crispy Cowboy",
+              "name_ar": "تشيكن كرسبي كاوبوي",
+              "price": 245,
+              "desc": "تشيكن كرسبي - بيف بيكون - هالبينو - صوص مدخن - جبنه شيدر - موزاريلا - خص - طماطم"
+            }
+          ]
+        },
+        {
+          "name_en": "Strompoli",
+          "name_ar": "سترومبولي",
+          "items": [
+            {
+              "name_en": "Strompoli Chicken",
+              "name_ar": "سترومبولي تشيكن",
+              "price": 175,
+              "desc": "بيتزا رول المحشي بالدجاج والخضروات والجبنة الموتزاريلا"
+            },
+            {
+              "name_en": "Strompoli Smoky",
+              "name_ar": "سترومبولي مدخن",
+              "price": 195,
+              "desc": "بيتزا رول المحشي باللحم المدخن والجبنة الموتزاريلا - سوسيس - سلامي - مشروم - خضروات"
+            },
+            {
+              "name_en": "Strompoli Cheese",
+              "name_ar": "سترومبولي جبن",
+              "price": 195,
+              "desc": "بيتزا رول المحشي بالجبنة الشيدر و الجبنة و الجبنة الموتزاريلا وخضروات"
+            },
+            {
+              "name_en": "Strompoli Shrimp",
+              "name_ar": "سترومبولي جمبري",
+              "price": 240,
+              "desc": "بيتزا رول المحشي بالجمبري و الجبنة الشيدر و الجبنة الموتزاريلا وخضروات"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name_en": "Pizza",
+      "name_ar": "بيتزا",
+      "note": "Prices listed for Medium (M) and Large (L)",
+      "items": [
+        {
+          "name_en": "Margherita",
+          "name_ar": "بيتزا مارجريتا",
+          "price_m": 95,
+          "price_l": 115,
+          "desc": "صوص طماطم - موزاريلا - ريحان"
+        },
+        {
+          "name_en": "Vegetables",
+          "name_ar": "بيتزا خضروات",
+          "price_m": 110,
+          "price_l": 130,
+          "desc": "مشروم - فلفل أخضر - طماطم - ذرة - زيتون - موزاريلا"
+        },
+        {
+          "name_en": "Quattro Formage",
+          "name_ar": "بيتزا كواترو فورماج",
+          "price_m": 155,
+          "price_l": 195,
+          "desc": "جبنة شيدر - جبنة موتزاريلا - جبنة رومي - جبنة بارميزان"
+        },
+        {
+          "name_en": "Armandos",
+          "name_ar": "بيتزا أرماندوس",
+          "price_m": 150,
+          "price_l": 190,
+          "desc": "بيف - سوسيس - جبنة موتزاريلا - مشروم - فلفل - زيتون"
+        },
+        {
+          "name_en": "Fantasia",
+          "name_ar": "بيتزا فانتازيا",
+          "price_m": 145,
+          "price_l": 185,
+          "desc": "بيف - ببروني - سلامي - جبنة موتزاريلا - طماطم - فلفل"
+        },
+        {
+          "name_en": "Napoli",
+          "name_ar": "بيتزا نابولي",
+          "price_m": 145,
+          "price_l": 185,
+          "desc": "بيف بيكون - تونة - فلفل أحمر - صوص طماطم - جبنة موتزاريلا"
+        },
+        {
+          "name_en": "Martin",
+          "name_ar": "بيتزا مارتن",
+          "price_m": 150,
+          "price_l": 190,
+          "desc": "جبنة زرقاء - ببروني - صوص باربيكيو - فلفل أحمر - موتزاريلا"
+        },
+        {
+          "name_en": "BBQ Chicken",
+          "name_ar": "بيتزا باربيكيو تشيكن",
+          "price_m": 150,
+          "price_l": 190,
+          "desc": "دجاج مشوي - بصل - فلفل - جبنة شيدر - صوص باربيكيو - موزاريلا"
+        },
+        {
+          "name_en": "Cheesey",
+          "name_ar": "بيتزا تشيزي",
+          "price_m": 160,
+          "price_l": 205,
+          "desc": "جبنة شيدر - جبنة موزاريلا - جبنة بارميزان - جبنة رومي - جبنة فيتا"
+        },
+        {
+          "name_en": "Crispy",
+          "name_ar": "بيتزا تشيكن كرسبي",
+          "price_m": 155,
+          "price_l": 195,
+          "desc": "دجاج كرسبي - بطاطس - طماطم - فلفل - موزاريلا - صوص رانش"
+        },
+        {
+          "name_en": "Buffalo Chicken",
+          "name_ar": "بيتزا تشيكن بافلو",
+          "price_m": 145,
+          "price_l": 185,
+          "desc": "شرائح دجاج بافلو - طماطم - فلفل - موزاريلا - صوص البافلو الحار"
+        },
+        {
+          "name_en": "Shrimp",
+          "name_ar": "بيتزا جمبري",
+          "price_m": 195,
+          "price_l": 235,
+          "desc": "جمبري - طماطم - فلفل أحمر - زيتون - موزاريلا - صوص أبيض"
+        },
+        {
+          "name_en": "Papa Dimos",
+          "name_ar": "بيتزا بابا ديموس (عشاق السيفود)",
+          "price_m": 210,
+          "price_l": 260,
+          "desc": "كاليماري - جمبري - فلفل - طماطم - صوص أبيض - جبنة موزاريلا"
+        },
+        {
+          "name_en": "Tuna",
+          "name_ar": "بيتزا تونة",
+          "price_m": 165,
+          "price_l": 205,
+          "desc": "تونة - فلفل أحمر - طماطم - زيتون - موزاريلا"
+        },
+        {
+          "name_en": "Ranch",
+          "name_ar": "بيتزا تشيكن رانش",
+          "price_m": 165,
+          "price_l": 205,
+          "desc": "دجاج مشوي - طماطم - فلفل أخضر - صوص رانش - جبنة موزاريلا"
+        },
+        {
+          "name_en": "Beef Burger",
+          "name_ar": "بيتزا بيف برجر",
+          "price_m": 165,
+          "price_l": 205,
+          "desc": "لحم برجر - طماطم - فلفل - مخلل - جبنة شيدر - موزاريلا"
+        },
+        {
+          "name_en": "Smoky",
+          "name_ar": "بيتزا المدخنة",
+          "price_m": 170,
+          "price_l": 210,
+          "desc": "تركي مدخن - بسطرمة - موتزاريلا - زيتون - صوص رانش"
+        }
+      ]
+    },
+    {
+      "name_en": "Italian Pasta",
+      "name_ar": "مكرونة إيطالي",
+      "items": [
+        {
+          "name_en": "Pasta Alla Forno",
+          "name_ar": "مكرونة بشاميل (فرن)",
+          "price": 120,
+          "desc": "مكرونة باللحم المفروم وصوص البشاميل"
+        },
+        {
+          "name_en": "Tenne All'Arrabbiata",
+          "name_ar": "مكرونة بنا أرابياتا",
+          "price": 90,
+          "desc": "مكرونة بنا مع صوص أرابياتا وكمون مفروم"
+        },
+        {
+          "name_en": "Spaghetti Bolognese",
+          "name_ar": "اسباجيتي صوص بولونيز",
+          "price": 145,
+          "desc": "مكرونة اسباجيتي مع صوص اللحم المفروم - جبنة موتزاريلا"
+        },
+        {
+          "name_en": "Shrimp Pasta",
+          "name_ar": "مكرونة بالجمبري",
+          "price": 210,
+          "desc": "مكرونة من اختيارك مع الجمبري - صوص الطماطم - جبنة موتزاريلا"
+        },
+        {
+          "name_en": "Tonuq or Sausage",
+          "name_ar": "مكرونة تونة أو سجق",
+          "price": 165,
+          "desc": "مكرونة بصوص التونة أو السجق"
+        },
+        {
+          "name_en": "Lasagne Minced Meat",
+          "name_ar": "لازانيا لحم مفروم",
+          "price": 145,
+          "desc": "شرائح من عجينة اللازانيا مع اللحم المفروم والجبنة الموتزاريلا"
+        },
+        {
+          "name_en": "Lasagne with Chicken",
+          "name_ar": "لازانيا بالدجاج",
+          "price": 155,
+          "desc": "لازانيا بالدجاج سوبر سوبرم"
+        },
+        {
+          "name_en": "Sea Food Pasta",
+          "name_ar": "مكرونة بابا ديموس سي فود",
+          "price": 235,
+          "desc": "مكرونة من اختيارك مع الجمبري والكاليماري - صوص الطماطم - موتزاريلا"
+        },
+        {
+          "name_en": "Chicken Pesto Pasta",
+          "name_ar": "مكرونة تشيكن بيستو",
+          "price": 175,
+          "desc": "مكرونة بالصوص الأبيض المميز وقطع الفراخ المشوية وصوص البيستو المميز"
+        },
+        {
+          "name_en": "Fettuccine Alfredo",
+          "name_ar": "فيتوتشيني الفريدو",
+          "price": 175,
+          "desc": "مكرونة بالصوص الأبيض المميز وقطع الفراخ المشوية مع المشروم"
+        },
+        {
+          "name_en": "Meatball Pasta Baked",
+          "name_ar": "باستا كرات اللحم بصوص البيستو",
+          "price": 175,
+          "desc": "مكرونة بنا + كرات اللحم + صوص أحمر - ريحان - موتزاريلا تدخل في الفرن"
+        },
+        {
+          "name_en": "Negresco (Pasta with Chicken)",
+          "name_ar": "مكرونة نجرسكو",
+          "price": 145,
+          "desc": "مكرونة نجرسكو بالدجاج"
+        }
+      ]
+    },
+    {
+      "name_en": "Appetizers",
+      "name_ar": "المقبلات",
+      "items": [
+        {
+          "name_en": "French Fries Chips",
+          "name_ar": "بطاطس فارم فريتس",
+          "price": 35
+        },
+        {
+          "name_en": "Cheese Chips",
+          "name_ar": "تشيزى فرايز",
+          "price": 75
+        },
+        {
+          "name_en": "Texas Cheese Fries",
+          "name_ar": "تكساس فرايز هالابينيو",
+          "price": 95
+        },
+        {
+          "name_en": "Chicken Pizza Fries",
+          "name_ar": "تشيكن بيتزا فرايز",
+          "price": 110
+        },
+        {
+          "name_en": "Garlic Bread & Mozzarella",
+          "name_ar": "خبز بالثوم والموتزاريلا",
+          "price": 45
+        },
+        {
+          "name_en": "Garlic Bread Pizza",
+          "name_ar": "جارلك بريد بيتزا",
+          "price": 65
+        },
+        {
+          "name_en": "Super Supreme Pepperoni",
+          "name_ar": "سوبر سوبريم بيبروني",
+          "price": 65
+        },
+        {
+          "name_en": "Onion Rings",
+          "name_ar": "حلقات بصل",
+          "price": 65
+        },
+        {
+          "name_en": "Sambousek Cheese",
+          "name_ar": "سمبوسك جبنة",
+          "price": 65
+        },
+        {
+          "name_en": "Cheese Mozzarella Fingers",
+          "name_ar": "أصابع جبن الموتزاريلا المقلية",
+          "price": 110
+        },
+        {
+          "name_en": "Sauteed Vegetables",
+          "name_ar": "خضار سوتيه",
+          "price": 35
+        },
+        {
+          "name_en": "Basmati Rice",
+          "name_ar": "أرز بسمتي",
+          "price": 35
+        },
+        {
+          "name_en": "Chicken Rizo",
+          "name_ar": "ريزو",
+          "price": 110
+        },
+        {
+          "name_en": "Chicken Strips",
+          "name_ar": "ستربس دجاج",
+          "price": 150
+        }
+      ]
+    },
+    {
+      "name_en": "Sandwiches",
+      "name_ar": "ساندويتشات",
+      "subcategories": [
+        {
+          "name_en": "Chicken",
+          "name_ar": "دجاج",
+          "items": [
+            {
+              "name_en": "Chicken Crispy - Pane",
+              "name_ar": "تشيكن كريسبي - بانية",
+              "price": 135
+            },
+            {
+              "name_en": "Chicken Supreme",
+              "name_ar": "تشيكن سوبريم",
+              "price": 155
+            },
+            {
+              "name_en": "Shish Tawool",
+              "name_ar": "شيش طاووق",
+              "price": 135
+            },
+            {
+              "name_en": "Chicken Parmesan",
+              "name_ar": "دجاج بارميزان",
+              "price": 145
+            },
+            {
+              "name_en": "Chicken Grilled",
+              "name_ar": "دجاج مشوي",
+              "price": 145
+            },
+            {
+              "name_en": "Chicken (Papa Dimos)",
+              "name_ar": "بابا ديموس تشيكن",
+              "price": 155
+            },
+            {
+              "name_en": "Chicken Cordon Bleu (Lasisa)",
+              "name_ar": "كوردن بلو (لاسيزا)",
+              "price": 165
+            },
+            {
+              "name_en": "Chicken Fajita",
+              "name_ar": "فاهيتا تشيكن",
+              "price": 135
+            }
+          ]
+        },
+        {
+          "name_en": "Sea Food",
+          "name_ar": "بحري",
+          "items": [
+            {
+              "name_en": "Shrimps Pane",
+              "name_ar": "جمبري بانة",
+              "price": 165
+            },
+            {
+              "name_en": "Shrimps",
+              "name_ar": "جمبري مشوي",
+              "price": 165
+            },
+            {
+              "name_en": "Calamary",
+              "name_ar": "كالاماري",
+              "price": 145
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name_en": "Kids Meals",
+      "name_ar": "وجبات أطفال",
+      "items": [
+        {
+          "name_en": "Chicken Nuggets",
+          "name_ar": "تشيكن ناجتس",
+          "price": 150
+        },
+        {
+          "name_en": "Chicken Burger",
+          "name_ar": "تشيكن برجر",
+          "price": 150
+        },
+        {
+          "name_en": "Mini Salami Pizza",
+          "name_ar": "ميني بيتزا سلامي",
+          "price": 150
+        },
+        {
+          "name_en": "Chicken Strips",
+          "name_ar": "تشيكن ستربس",
+          "price": 150
+        }
+      ]
+    }
+  ]
+}

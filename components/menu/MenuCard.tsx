@@ -8,6 +8,7 @@ interface MenuItem {
   price?: number
   price_m?: number
   price_l?: number
+  desc?: string
 }
 
 interface MenuCardProps {
@@ -23,6 +24,9 @@ export function MenuCard({ item, currency }: MenuCardProps) {
     >
       <h4 className="text-lg font-bold text-charcoal mb-2">{item.name_en}</h4>
       <p className="text-gray-600 text-sm mb-3 font-script">{item.name_ar}</p>
+      {item.desc && (
+        <p className="text-gray-700 text-xs mb-3 italic">{item.desc}</p>
+      )}
 
       <div className="flex justify-between items-center">
         {item.price ? (

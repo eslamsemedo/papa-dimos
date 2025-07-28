@@ -5,7 +5,7 @@ import { motion } from "framer-motion"
 import { Section } from "@/components/ui/Section"
 import { MenuCategoryTabs } from "@/components/menu/MenuCategoryTabs"
 import { MenuCard } from "@/components/menu/MenuCard"
-import menuData from "@/data/menu.json"
+import menuData from "@/data/menu2.json"
 
 export function MenuPage() {
   // const { menuData } = useMenu()
